@@ -1,2 +1,2 @@
 #!/bin/bash
-echo JAVA_HOME="JAVA_HOME"
+echo $JAVA_HOME
